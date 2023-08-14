@@ -9,6 +9,9 @@ An ECommerce site for everyone, witha backend forged using ORM.
 
 A Walthrough [Video](https://drive.google.com/file/d/1m5FUoUgOmLQu9WvXMJht94J6cnXmStbL/view?usp=sharing) can be accesed for functionality guidance. 
 
+## Disclaimer
+This project was created by refactoring code from the course, online forums, from friend's advice and with the help of ChatGPT and Github CoPilot to reduce development times. 
+
 ## Table of Contents
 
 * [Installation](#installation)
